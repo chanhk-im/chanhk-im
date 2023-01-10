@@ -42,3 +42,6 @@ CRA 신입 프로젝트 지도 및 관리
 
 ## solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cfasd1875)](https://solved.ac/cfasd1875)
+
+## 사용 언어
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhk-im&theme=merko)
