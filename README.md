@@ -26,7 +26,7 @@ nlp를 학습하여 규정집의 검색 알고리즘 과제 수행
 - **19.12 ~ 20.02** - **CRA-Dormitory:** 한동대인을 위한 기숙사 RC별 게시판 앱 제작  
 React-native를 이용한 Front-end 분야 및 node.js(express.js)를 이용한 Back-end 분야 담당
 
-- **19.06 ~ 19.11** - **Game-bullet-hell:** 적을 피해 폐쇄 장소를 탈출하는 공포게임
+- **19.06 ~ 19.11** - **Game-bullet-hell:** 적을 피해 폐쇄 장소를 탈출하는 공포게임  
 Unity를 활용하여 아이템 수집/사용 기능 개발
 
 ## Career
