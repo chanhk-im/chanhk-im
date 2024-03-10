@@ -6,18 +6,24 @@
 #### 1. Front-end
 - React-native
 - Flutter
+- React
 
 #### 2. Back-end
 - node.js
 - express.js
 - Spring
+- Firebase
 
 #### 3. etc.
 - Unity
 - NLP(자연어 처리)
+- CUDA C
 
 ## 참여 Projects
-- **22.12.19 ~ now** - **iTaxi:** 한동대인들을 위한 택시/카풀 모집 앱 제작  
+- **23.06.19 ~ 23.08** - **동공확장:** 한동대 공연 예매 시스템
+React, Firebase로 한동대학교의 공연 예매/결제 등을 웹상으로 편하게 실행하고, 이를 관리할 수 있는 시스템. DB와 Front-end 간의 연결 담당
+
+- **22.12.19 ~ 23.02.17** - **iTaxi:** 한동대인들을 위한 택시/카풀 모집 앱 제작  
 flutter, firebase를 활용하여 Front-end 분야에서 앱의 플로우, 채팅, 알림 기능 등 전반적인 기능 보수/추가, 리팩토링 담당
 
 - **20.10 ~ 21.03** - **NLP 알고리즘을 활용한 검색 시스템(산학과제)**  
