@@ -16,10 +16,15 @@
 
 #### 3. etc.
 - Unity
-- NLP(자연어 처리)
-- CUDA C
+- Socket Programming
 
 ## 참여 Projects
+- **24.12 ~ 25.02** - **CRA Web:** 한동대학교 전산 동아리 CRA 공식 웹 페이지
+  
+- **24.07** - **Stone Wall:** 크래프팅 서바이벌 게임
+
+- **23.08 ~ 24.06** - **Point Cloud Streaming Service:**
+
 - **23.06.19 ~ 23.08** - **동공확장:** 한동대 공연 예매 시스템
 React, Firebase로 한동대학교의 공연 예매/결제 등을 웹상으로 편하게 실행하고, 이를 관리할 수 있는 시스템. DB와 Front-end 간의 연결 담당
 
@@ -36,6 +41,7 @@ React-native를 이용한 Front-end 분야 및 node.js(express.js)를 이용한 
 Unity를 활용하여 아이템 수집/사용 기능 개발
 
 ## Career
+- **24.03 ~ 24.08** - CRA 개발팀장
 - **23.09 ~ 23.12** - CRA 회장  
 - **22.12.19 ~ 23.06** - iTaxi Front-end 개발자  
 앱의 기능 보수, 신 기능 추가, 코드 리팩토링 등 담당하고 있음
