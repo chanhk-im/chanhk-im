@@ -19,7 +19,7 @@
 - Socket Programming
 
 ## 참여 Projects
-- **24.12 ~ 25.02** - **CRA Web:** 한동대학교 전산 동아리 CRA 공식 웹 페이지
+- **24.12 ~ 25.02** - [**CRA Web:**](https://cra206.org/) 한동대학교 전산 동아리 CRA 공식 웹 페이지
   
 - **24.07** - **Stone Wall:** 크래프팅 서바이벌 게임
 
