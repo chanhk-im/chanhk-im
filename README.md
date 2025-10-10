@@ -58,3 +58,6 @@ CRA 신입 프로젝트 지도 및 관리
 
 ## 사용 언어
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhk-im&theme=merko)
+
+## Notion
+[노션 PR](https://www.notion.so/10f0e39821a680ef99ddc63956316800)
