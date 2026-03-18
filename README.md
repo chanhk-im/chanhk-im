@@ -37,6 +37,13 @@ C/C++ 네트워크 프로그래밍부터 Spring Boot 백엔드까지,
 - 현재 실 운영 중
 - [cra206.org](https://cra206.org)
 
+## 🎓 Education
+
+**삼성 SSAFY 13기** (2026.01 ~ 현재)
+- 삼성 SW 역량테스트 B형 취득
+
+**한동대학교** AI컴퓨터공학심화 (2019~2025)
+
 ## 📊 Stats
 ![chanhk-im's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanhk-im&show_icons=true&theme=tokyonight)
 
