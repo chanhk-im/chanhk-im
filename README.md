@@ -1,63 +1,43 @@
-## chanhk-im 👋
-다양한 것에 대한 경험에 열망을 가지고 있는 배고픈 개발자입니다 :)
+## 임찬혁 (chanhk-im)
 
-## Stack(+개발/학습 경험 분야)
+C/C++ 네트워크 프로그래밍부터 Spring Boot 백엔드까지,
+시스템 전반을 다루는 SW 개발자입니다.
 
-#### 1. Front-end
-- React-native
-- Flutter
-- React
+## 🛠 Tech Stack
 
-#### 2. Back-end
-- node.js
-- express.js
-- Spring
-- Firebase
+**System/Network**
+- C/C++, Socket Programming, Raw Socket, Multi-threading
 
-#### 3. etc.
-- Unity
-- Socket Programming
+**Backend**
+- Java / Spring Boot / Spring Security
+- MySQL, AWS EC2·S3·RDS
+- Docker, GitHub Actions (CI/CD)
+- Grafana · Loki · Prometheus
 
-## 참여 Projects
-- **24.12 ~ 25.02** - [**CRA Web**](https://cra206.org/): 한동대학교 전산 동아리 CRA 공식 웹 페이지
-  
-- **24.07** - **Stone Wall:** 크래프팅 서바이벌 게임
+**Frontend**
+- React.js, Flutter
 
-- **23.08 ~ 24.06** - **Point Cloud Streaming Service:**
+**Etc**
+- Python, Linux
 
-- **23.06.19 ~ 23.08** - **동공확장:** 한동대 공연 예매 시스템
-React, Firebase로 한동대학교의 공연 예매/결제 등을 웹상으로 편하게 실행하고, 이를 관리할 수 있는 시스템. DB와 Front-end 간의 연결 담당
+## 📌 Projects
 
-- **22.12.19 ~ 23.06** - **iTaxi:** 한동대인들을 위한 택시/카풀 모집 앱 제작  
-flutter, firebase를 활용하여 Front-end 분야에서 앱의 플로우, 채팅, 알림 기능 등 전반적인 기능 보수/추가, 리팩토링 담당
+**L4 TCP 로드밸런서** (2023, 1인 개발)
+- Raw socket 기반 IP/TCP 헤더 직접 파싱 및 패킷 수정·재전송
+- NAT 테이블 직접 설계, Round Robin·Least Connection·Resource Based 스케줄링 구현
+- [GitHub](링크)
 
-- **20.10 ~ 21.03** - **NLP 알고리즘을 활용한 검색 시스템(산학과제)**  
-nlp를 학습하여 규정집의 검색 알고리즘 과제 수행
+**Point Cloud 실시간 스트리밍 서비스** (2023~2024, 학부 연구원)
+- C/C++ 소켓 통신으로 LiDAR 3D 데이터 다중 기기 간 실시간 송수신
+- 전송 지연 600ms → 130ms 개선
+- [논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862528)
 
-- **19.12 ~ 20.02** - **CRA-Dormitory:** 한동대인을 위한 기숙사 RC별 게시판 앱 제작  
-React-native를 이용한 Front-end 분야 및 node.js(express.js)를 이용한 Back-end 분야 담당
+**CRA 동아리 공식 웹사이트** (2024.12~2025.02)
+- Spring Boot 기반 REST API, CI/CD, 모니터링 구축
+- 현재 실 운영 중
+- [cra206.org](https://cra206.org)
 
-- **19.06 ~ 19.11** - **Game-bullet-hell:** 적을 피해 폐쇄 장소를 탈출하는 공포게임  
-Unity를 활용하여 아이템 수집/사용 기능 개발
-
-## Career
-- **24.03 ~ 24.08** - CRA 개발팀장
-- **23.09 ~ 23.12** - CRA 회장  
-- **22.12.19 ~ 23.06** - iTaxi Front-end 개발자  
-앱의 기능 보수, 신 기능 추가, 코드 리팩토링 등 담당하고 있음
-- **21.01.14 ~ 21.01.16** - 선배들과 함깨하는 C캠프 튜터  
-CRA 동아리에서 진행한 C캠프에 튜터로 맡아 참여자 튜터링, 도움
-- **20.08.31 ~ 21.02** - CRA 개발팀장  
-CRA 신입 프로젝트 지도 및 관리
-
-## Github stats
+## 📊 Stats
 ![chanhk-im's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanhk-im&show_icons=true&theme=tokyonight)
 
-## solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cfasd1875)](https://solved.ac/cfasd1875)
-
-## 사용 언어
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhk-im&theme=merko)
-
-## Notion
-[노션 PR](https://www.notion.so/10f0e39821a680ef99ddc63956316800)
