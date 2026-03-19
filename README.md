@@ -25,7 +25,7 @@ C/C++ 네트워크 프로그래밍부터 Spring Boot 백엔드까지,
 **L4 TCP 로드밸런서** (2023, 1인 개발)
 - Raw socket 기반 IP/TCP 헤더 직접 파싱 및 패킷 수정·재전송
 - NAT 테이블 직접 설계, Round Robin·Least Connection·Resource Based 스케줄링 구현
-- [GitHub](링크)
+- [GitHub](https://github.com/chanhk-im/load-balancer-l4)
 
 **Point Cloud 실시간 스트리밍 서비스** (2023~2024, 학부 연구원)
 - C/C++ 소켓 통신으로 LiDAR 3D 데이터 다중 기기 간 실시간 송수신
